@@ -1,0 +1,66 @@
+html, body.body-explore {
+    background-color: #191922 !important;
+}
+
+.explore-kinkers {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
+    text-align: left;
+    padding-top: 2%;
+    padding-left: 14%;
+    font-size: 3rem !important;
+    font-weight: bold !important;
+    height: 850px;
+    background-color: #191922;
+}
+
+.explore-kinkers > p {
+    margin-left: 1%;
+}
+
+.explore-kinker-single {
+    width: 350px;
+    border-radius: 5px;
+}
+
+.explore-kinker-single > img {
+    height: 500px !important;
+    width: 350px !important;
+    border-radius: 5px;
+}
+
+.explore-kinker-single > p {
+    font-size: 1.5rem !important;
+    font-weight: bold !important;
+    margin-top: 10%;
+    height: 100px;
+    margin-left: 7%;
+}
+
+.explore-kinkers-img {
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+
+.explore-kinkers-card:hover {
+    transform: translateY(-10px);
+    transition: all .5s;
+}
+
+.explore-kinkers-card {
+    transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1); /* Adjust the duration and easing function */
+    margin: 1% 3% 3% 1.5%;
+    background-color: #191922 !important;
+}
+
+.explore-filter-btn {
+    border: 2px solid #fff !important;
+    border-radius: 10px !important;
+    font-size: 1rem !important;
+    margin-left: 3% !important;
+    background-color:  #191922 !important;
+}
+
+.explore-filter-btn:hover {
+    background-color: white !important;
+    color: black !important;
+}
