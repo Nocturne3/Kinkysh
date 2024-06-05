@@ -1,0 +1,24 @@
+﻿@page "/explore"
+
+<div class="user-cards">
+    @foreach(var user in Users)
+    {
+        <a href="/public-user/@user.UserId">
+            <div class="user-card">
+                <img src="@user.ProfilePictureUrl" alt="User image" class="user-image" />
+                <p class="user-text">@user.Username, @user.Age</p>
+            </div>    
+        </a>
+    }
+</div>
+
+<div class="pagination-container">
+    <MudPagination
+        Class="explore-pagination"
+        SelectedChanged="ChangePage"
+        Selected="CurrentPage"
+        ShowFirstButton="true"
+        ShowLastButton="true"
+        Variant="Variant.Filled"
+        Count="TotalPages" />    
+</div>

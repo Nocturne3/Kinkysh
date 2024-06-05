@@ -1,0 +1,53 @@
+﻿@page "/public-user/{UserId:int}"
+
+<div class="profile-container">
+    <div class="top-picture">
+        <img src="@User.ProfilePictureUrl" alt="User Top Picture">
+    </div>
+    <div class="user-info">
+        <h1 class="profile-top-username">@User.Username</h1>
+        <p>Bio: A short description about the user.</p>
+    </div>
+</div>
+
+<div class="public-second-container">
+    <div class="public-about-me">
+        <h1>About Me</h1>
+        <p>I'm passionate about technology and its potential to make a positive impact on our lives. I love diving into new programming languages, building apps that make life easier, and contributing to open-source projects. When I'm not in front of a screen, I enjoy hiking, photography, and traveling to new places to experience different cultures and cuisines.</p>
+    </div>
+    <div class="public-user-card">
+        <img src="@User.ProfilePictureUrl" alt="User image" class="user-image" />
+    </div>
+</div>
+
+<div class="public-second-container">
+    <div class="public-user-card">
+        <img src="@User.ProfilePictureUrl" alt="User image" class="user-image" />
+    </div>
+    <div class="public-about-me">
+        <h1>Services</h1>
+        <p>I'm passionate about technology and its potential to make a positive impact on our lives. I love diving into new programming languages, building apps that make life easier, and contributing to open-source projects. When I'm not in front of a screen, I enjoy hiking, photography, and traveling to new places to experience different cultures and cuisines.</p>
+    </div>
+</div>
+
+
+<div class="public-user-cards">
+    <h1 class="more-of-me-h1">More Of Me</h1>
+    <a href="/public-user/@User.UserId">
+        <div class="public-user-card">
+            <img src="@User.ProfilePictureUrl" alt="User image" class="user-image" />
+        </div>
+        <div class="public-user-card">
+            <img src="@User.ProfilePictureUrl" alt="User image" class="user-image" />
+        </div>
+        <div class="public-user-card">
+            <img src="@User.ProfilePictureUrl" alt="User image" class="user-image" />
+        </div>
+        <div class="public-user-card">
+            <img src="@User.ProfilePictureUrl" alt="User image" class="user-image" />
+        </div>
+        <div class="public-user-card">
+            <img src="@User.ProfilePictureUrl" alt="User image" class="user-image" />
+        </div>
+    </a>
+</div>

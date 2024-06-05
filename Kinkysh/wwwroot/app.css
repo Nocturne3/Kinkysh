@@ -1,0 +1,51 @@
+body {
+    background-color: #191922 !important;
+    color: #fff; /* Ensure text color contrasts well */
+    font-family: "Inter", sans-serif;
+}
+
+header {
+    padding: 15px 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    color: white !important;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-list li {
+    margin-right: 20px;
+}
+
+.nav-list li a {
+    color: white !important;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 20px 20px;
+    transition: background-color 0.3s, color 0.3s;
+    text-transform: uppercase;
+    font-weight: lighter;
+    letter-spacing: 4px;
+}
+
+.main-content {
+    padding-top: 80px; /* Add padding to account for fixed navbar */
+    display: flex;
+    justify-content: center;
+}
+
+.person-icon {
+    cursor: pointer;
+}

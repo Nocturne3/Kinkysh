@@ -1,0 +1,23 @@
+﻿.signup-h1 {
+    text-align: center;
+    margin-top: 5%;
+    font-family: "Inter", sans-serif;
+}
+
+.signup-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    overflow: auto !important;
+}
+
+.signup-form > div {
+    width: 30%;
+    padding: 1%;
+}
+
+.signup-btn {
+    margin-top: 1% !important;
+    margin-left: 25% !important;
+}

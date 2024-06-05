@@ -1,0 +1,80 @@
+﻿h1 {
+    font-family: "Lora", serif;
+    font-style: italic;
+}
+
+.profile-top-username {
+    font-size: 10rem !important;
+}
+
+.top-picture {
+    margin-left: 12%;
+    margin-top: 5%;
+}
+
+.top-picture > img {
+    border-radius: 1%;
+    height: 800px;
+    width: 600px;
+}
+
+.user-info {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-left: 100px;
+    margin-top: -300px;
+}
+
+.user-info h1 {
+    margin-bottom: 10px;
+    font-size: 5em;
+}
+
+.user-info p {
+    font-size: 1.2em;
+}
+
+.profile-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px;
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.public-second-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.public-second-container > div {
+    margin-right: 15%;
+    color: white;
+    max-width: 300px;
+}
+
+.public-user-cards > a {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 2%;
+}
+
+.public-user-card {
+    padding-right: 5%;
+    padding-bottom: 3%;
+}
+
+.more-of-me-h1 {
+    margin-top: 5%;
+    color: white;
+    text-align: center;
+}

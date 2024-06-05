@@ -1,0 +1,22 @@
+﻿.user-profile-menu-btn {
+    margin-left: 22% !important;
+    margin-top: 5% !important;
+}
+
+.profile-menu-btn {
+    text-transform: uppercase;
+}
+
+.profile-picture {
+    display: flex;
+    justify-content: center;
+}
+
+.profile-picture-img {
+    width: 400px;
+    height: 500px;
+    border-radius: 2%;
+    margin-left: 22% !important;
+    margin-right: 5%;
+}
+

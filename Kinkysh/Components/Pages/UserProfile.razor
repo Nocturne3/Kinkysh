@@ -1,0 +1,24 @@
+﻿@page "/my-profile"
+@using Kinkysh.Data.Models.User
+
+<MudIconButton Class="user-profile-menu-btn" Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" Size="Size.Large" OnClick="@(() => OpenDrawer(Anchor.Start))" />
+
+<MudDrawer @bind-Open="@IsDrawerOpen" Anchor="@Anchor" Elevation="1" Variant="@DrawerVariant.Temporary">
+    <MudDrawerHeader>
+        <MudText Typo="Typo.h6">MY PROFILE</MudText>
+    </MudDrawerHeader>
+    <MudButton Class="profile-menu-btn">Dashboard</MudButton>
+    <MudButton Class="profile-menu-btn">Portfolio</MudButton>
+    <MudButton Class="profile-menu-btn">Sales and Earnings</MudButton>
+    <MudButton Class="profile-menu-btn">Upload Photos</MudButton>
+    <MudButton Class="profile-menu-btn">Messages</MudButton>
+    <MudButton Class="profile-menu-btn">Settings</MudButton>
+</MudDrawer>
+
+<h1>Portfolio</h1>
+<div class="portfolio">
+    <div class="profile-picture">
+        <MudImage Class="profile-picture-img" Src="@UserDao.ProfilePictureUrl"></MudImage>
+        <p>This is your main picture showed in explore area.</p>
+    </div>
+</div>

@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Kinkysh.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Kinkysh.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pages\\explore.css",
+      "PackagePath": "staticwebassets\\pages\\explore.css"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pages\\public-user.css",
+      "PackagePath": "staticwebassets\\pages\\public-user.css"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pages\\signup.css",
+      "PackagePath": "staticwebassets\\pages\\signup.css"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pages\\userprofile.css",
+      "PackagePath": "staticwebassets\\pages\\userprofile.css"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pics\\woman-exp-1.jpg",
+      "PackagePath": "staticwebassets\\pics\\woman-exp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pics\\woman-exp-2.jpg",
+      "PackagePath": "staticwebassets\\pics\\woman-exp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pics\\woman-exp-3.jpg",
+      "PackagePath": "staticwebassets\\pics\\woman-exp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pics\\woman-exp-4.jpg",
+      "PackagePath": "staticwebassets\\pics\\woman-exp-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pics\\woman-exp-5.jpg",
+      "PackagePath": "staticwebassets\\pics\\woman-exp-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pics\\woman-exp-6.jpg",
+      "PackagePath": "staticwebassets\\pics\\woman-exp-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pics\\woman-exp-7.jpg",
+      "PackagePath": "staticwebassets\\pics\\woman-exp-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Claud\\Documents\\Kinkysh\\Kinkysh\\wwwroot\\pics\\woman-exp-8.jpg",
+      "PackagePath": "staticwebassets\\pics\\woman-exp-8.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Kinkysh.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Kinkysh.props",
+      "PackagePath": "build\\Kinkysh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Kinkysh.props",
+      "PackagePath": "buildMultiTargeting\\Kinkysh.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Kinkysh.props",
+      "PackagePath": "buildTransitive\\Kinkysh.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

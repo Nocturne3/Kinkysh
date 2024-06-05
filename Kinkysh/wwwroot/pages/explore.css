@@ -1,0 +1,44 @@
+﻿
+.user-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.user-image {
+    width: 380px;
+    height: 500px;
+    border-radius: 2%;
+    margin: 10px;transition:
+        transform 0.3s ease-in-out;
+}
+
+.user-image:hover {
+    transform: scale(1.05);
+}
+
+.user-card {
+    margin: 45px;
+}
+
+.user-text {
+    color: white;
+    text-align: left;
+    font-size: 1.5em;
+    margin-left: 18px;
+    margin-top: 10px;
+}
+
+.pagination-container {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    margin-top: 16px;
+    margin-right: 100px;
+    margin-bottom: 10%;
+}
+
+.pagination-container > ul {
+    margin-right: 13%;
+}

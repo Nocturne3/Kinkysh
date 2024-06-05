@@ -1,0 +1,13 @@
+﻿@page "/signup"
+
+<h1 class="signup-h1">Join us now</h1>
+
+<MudForm Class="signup-form">
+    <MudTextField T="string" @bind-Value="@SignUpDto.Username" Label="Username" />
+    <MudTextField T="string" @bind-Value="@SignUpDto.Email" Label="Email" />
+    <MudTextField T="int" @bind-Value="@SignUpDto.Age" Label="Age" />
+    <MudTextField T="string" @bind-Value="@SignUpDto.City" Label="City" />
+    <MudTextField T="string" @bind-Value="@SignUpDto.Password" Label="Password" />
+    <MudTextField T="string" @bind-Value="@SignUpDto.Password" Label="Confirm Password" />
+    <MudButton Class="signup-btn" OnClick="@SignUpUser">SignUp</MudButton>
+</MudForm>

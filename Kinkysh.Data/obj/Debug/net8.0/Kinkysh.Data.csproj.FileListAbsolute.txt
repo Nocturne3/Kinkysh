@@ -1,0 +1,15 @@
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\bin\Debug\net8.0\Kinkysh.Data.deps.json
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\bin\Debug\net8.0\Kinkysh.Data.dll
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\bin\Debug\net8.0\Kinkysh.Data.pdb
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\Kinkysh.Data.csproj.AssemblyReference.cache
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\Kinkysh.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\Kinkysh.Data.AssemblyInfoInputs.cache
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\Kinkysh.Data.AssemblyInfo.cs
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\Kinkysh.Data.csproj.CoreCompileInputs.cache
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\Kinkysh.Data.sourcelink.json
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\Kinkysh.Data.dll
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\refint\Kinkysh.Data.dll
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\Kinkysh.Data.pdb
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\ref\Kinkysh.Data.dll
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\bin\Debug\net8.0\Kinkysh.Data.runtimeconfig.json
+C:\Users\Claud\Documents\Kinkysh\Kinkysh.Data\obj\Debug\net8.0\Kinkysh.Data.genruntimeconfig.cache
